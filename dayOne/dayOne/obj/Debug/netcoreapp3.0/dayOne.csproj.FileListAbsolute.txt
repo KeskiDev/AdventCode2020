@@ -1,0 +1,11 @@
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.exe
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.deps.json
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.runtimeconfig.json
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.runtimeconfig.dev.json
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.dll
+C:\Projects\AdventOfCode\dayOne\dayOne\bin\Debug\netcoreapp3.0\dayOne.pdb
+C:\Projects\AdventOfCode\dayOne\dayOne\obj\Debug\netcoreapp3.0\dayOne.csprojAssemblyReference.cache
+C:\Projects\AdventOfCode\dayOne\dayOne\obj\Debug\netcoreapp3.0\dayOne.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode\dayOne\dayOne\obj\Debug\netcoreapp3.0\dayOne.AssemblyInfo.cs
+C:\Projects\AdventOfCode\dayOne\dayOne\obj\Debug\netcoreapp3.0\dayOne.dll
+C:\Projects\AdventOfCode\dayOne\dayOne\obj\Debug\netcoreapp3.0\dayOne.pdb
