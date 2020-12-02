@@ -1,0 +1,11 @@
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.exe
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.deps.json
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.runtimeconfig.json
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.runtimeconfig.dev.json
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.dll
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\bin\Debug\netcoreapp3.0\dayTwo.pdb
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\obj\Debug\netcoreapp3.0\dayTwo.csprojAssemblyReference.cache
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\obj\Debug\netcoreapp3.0\dayTwo.AssemblyInfoInputs.cache
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\obj\Debug\netcoreapp3.0\dayTwo.AssemblyInfo.cs
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\obj\Debug\netcoreapp3.0\dayTwo.dll
+C:\Projects\AdventOfCode\dayTwo\dayTwo\dayTwo\obj\Debug\netcoreapp3.0\dayTwo.pdb
